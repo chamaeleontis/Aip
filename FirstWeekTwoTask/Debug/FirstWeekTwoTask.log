@@ -1,0 +1,3 @@
+﻿  FirstWeekTwoTask.cpp
+C:\Users\Компьютер Господина\Documents\aip\FirstWeekTwoTask\FirstWeekTwoTask.cpp(9,32): warning C4305: =: усечение из "double" в "float"
+  FirstWeekTwoTask.vcxproj -> C:\Users\Компьютер Господина\Documents\aip\FirstWeekTwoTask\Debug\FirstWeekTwoTask.exe

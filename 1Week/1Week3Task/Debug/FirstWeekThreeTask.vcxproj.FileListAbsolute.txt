@@ -1,0 +1,4 @@
+C:\Users\Компьютер Господина\Documents\aip\FirstWeekThreeTask\Debug\FirstWeekThreeTask.exe
+C:\Users\Компьютер Господина\Documents\aip\FirstWeekThreeTask\Debug\FirstWeekThreeTask.pdb
+C:\Users\Компьютер Господина\Documents\aip\1Week\1Week3Task\Debug\FirstWeekThreeTask.exe
+C:\Users\Компьютер Господина\Documents\aip\1Week\1Week3Task\Debug\FirstWeekThreeTask.pdb

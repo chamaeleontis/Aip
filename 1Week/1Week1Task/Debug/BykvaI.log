@@ -1,0 +1,6 @@
+﻿  BykvaI.cpp
+C:\Users\Компьютер Господина\Documents\aip\1Week\1Week1Task\BykvaI.cpp(5,19): error C2079: "fout" использует не имеющую определения структуру class "std::basic_ofstream<char,std::char_traits<char>>"
+C:\Users\Компьютер Господина\Documents\aip\1Week\1Week1Task\BykvaI.cpp(7,31): error C2297: <<: недопустимо, правый оператор имеет тип "const char [11]"
+C:\Users\Компьютер Господина\Documents\aip\1Week\1Week1Task\BykvaI.cpp(8,15): error C2563: несоответствие в списке формальных параметров
+C:\Users\Компьютер Господина\Documents\aip\1Week\1Week1Task\BykvaI.cpp(8,15): error C2568: <<: не удается разрешить перегрузку функции
+C:\Users\Компьютер Господина\Documents\aip\1Week\1Week1Task\BykvaI.cpp(8,15): message : может быть "std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)"

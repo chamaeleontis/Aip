@@ -27,7 +27,7 @@ int main()
     std::ofstream fout;
     fout.open("out.txt");
 
-    if (R = t + s, s = t - r) {
+    if ((R == t + s) && (s == t - r)) {
         std::cout << "Perimeter=" << 2 * M_PI * R << "  ";
         std::cout << "Area=" << M_PI * t * t << std::endl;
         fout << 2 * M_PI * R << ' ' << M_PI * t * t;
